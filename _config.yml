@@ -1,0 +1,51 @@
+# Site settings
+title: "Xinluan Tian_Columbia University_SDE_resume"
+description: "Homepage for Xinluan Tian"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Xinluan (Luna) Tian"
+resume_title:                   "Master of EE at Columbia University"
+
+# used for header info
+resume_header_contact_info:     "xt2233@columbia.edu • (646) 645-5874 • xinluantian.github.io • linkedin.com/in/lunaxinluantian/"
+display_header_contact_info:    "true"
+resume_header_intro: "<p> I am actively seeking full-time SDE positions. I am open to all company sizes and can relocate.</p>"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_professional_experience: true
+resume_section_recognition:             true
+resume_section_research_experience:     true
+resume_section_education:               true
+resume_section_skills:                  true
+resume_section_projects:                true
+
+#resume_section_recognition:             true
+#resume_section_links:                  false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  # resume_github_url:            "https://github.com/xinluantian"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/lunaxinluantian/"
+  resume_instagram_url:         "https://www.instagram.com/luna.x.tian/"
+  # resume_website_url:           "https://xinluantian.github.io/"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

@@ -1,0 +1,16 @@
+# Degree   
+- degree: Master's Degree, Electrical Engineering
+  uni: Columbia University
+  location: New York, NY
+  year: Sep 2019 &mdash; Dec 2020
+#  gpa: 'GPA: 3.75/4.00'
+  summary: '<ul class="resume-item-list"><li>Featured courses: Analysis of Algorithms, Introduction to Databases, Computer Network, Reinforcement Learning, Adv. Big Data Analytics, Statistical Learning, Natural Language Processing, Large-scale Stream Processing</li></ul>'
+  
+
+- degree: Bachelor's Degree, Electronic and Information Engineering
+  uni: Xidian University
+  location: Xi'an, China
+  year: Sep 2015 &mdash; Jun 2019
+#  gpa: 'GPA: 3.80/4.00'
+  summary: '<ul class="resume-item-list"><li>Featured courses: Data Structure, Modern Image Analysis, Microcomputer Principle and System Design</li></ul>'
+  # summary: N/A
