@@ -5,7 +5,13 @@
   role: Individual Project
   duration:  July 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Single-page application with <b>React</b> and <b>Redux</b> by achieving functions of displaying and editing user information and photos.</li><li>Designed one-to-many relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b> </li> <li>Invoked email app and made phone call on user profile </li><li>Infinite scrolling on user list with React component API</li></ul>'
+  description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information and avatars with edit and create functions <b>(React, Redux, MongoDB, Express)</b></li><li>Designed 1-to-M relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li> <li>Realized UI optimization by achieving infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
+
+- project: Top Trending Twitter Identification
+  role: Columbia University
+  duration:  May 2020
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Utilized <b>Apache Spark</b> to analyze streaming data to track real-time trending topics from Twitter API (Python)</li><li>Processed and realized <b>Named Entity Recognition (NER)</b> on obtained tweets with <b>displaCy.js</b></li> <li>Set a checkpoint to allow RDD recovery for relatively reliable data persistence to get top 10 hashtag in every 2 seconds</li></ul>'
 
 # - project: User Personnel Registry with MERN Stack
 #   role: Individual Project
