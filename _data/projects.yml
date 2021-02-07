@@ -10,5 +10,5 @@
 - project: User Personnel Registry with MERN Stack
   role: Individual Project
   duration: July 2020
-  # url: "#"
+  url: "#"
   description: <ul class="resume-item-list"><li>Designed and built a brand new full-stack web application to display announcements and submit weekly reports for all internal staffs</li><li>Optimized company webpages and helped maintain existing webpages with <b>WordPress</b> plugins</li><li>Utilized React and Django to allow users to do authentication, authorization, assignment submission, etc</li><li>Managed work plan with UI design team on <b>Jira</b> and deployed website to <b>Amazon Web Services(AWS)</></li></ul>
