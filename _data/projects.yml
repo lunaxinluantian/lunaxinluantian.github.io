@@ -11,22 +11,22 @@
   role: Individual Project
   duration: July 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Single-page application with <b>React</b> and <b>Redux</b> by achieving functions of displaying and editing user information and photos</li><li>Designed one-to-many relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
+  description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information and avatars with edit and create functions <b>(React, Redux, MongoDB, Express)</b></li><li>Designed 1-to-M relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized UI optimization by achieving Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
 
 - project: Top Trending Twitter Identification
   role: Columbia University
   duration: May 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Utilized <b>Apache Spark</b> to get tweets in JSON format from Twitter API (Python)</li><li>Realized <b>Named Entity Recognition (NER)</b> on tweets with top trending hashtags in <b>displaCy.js</b></li><li>Demonstrated data visualization with Flask framework and updated real-time top 10 hashtags in every two seconds</li></ul>'
+  description: '<ul class="resume-item-list"><li>Utilized <b>Apache Spark</b> to analyze streaming data to track real-time trending topics from Twitter API (Python)</li><li>Processed and realized <b>Named Entity Recognition (NER)</b> on obtained tweets with <b>displaCy.js</b></li><li>Set a checkpoint to allow RDD recovery for relatively reliable data persistence to get top 10 hashtag in every 2 seconds</li></ul>'
 
 - project: Automatic Story Telling on Public Event
   role: Columbia University
   duration: Jan 2020 &mdash; May 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Used public raw materials on social media to summarize a concise and informative story under the circumstance of overwhelming data on social media (<b>Pyhton</b>)</li><li>Cleaned data by filtering spam information to obtain useful tweets on certain topics</li><li>Compressed Twitter data into low dimensional representations and classified them into subtopics</li><li>Demonstrated data visualization and formed story using <b>BERT</b> based extractive summarization method(<b>NLP</b>)</li></ul>'
+  description: '<ul class="resume-item-list"><li>Extracted key information from 5234 news events on Twitter to generate useful and concise human-write style stories on certain topics(<b>Pyhton</b>)</li><li>Cleaned data by filtering spam and compressed tweets into low dimensional representations to overcome the disadvantage of overwhelming real-time data</li><li>Implemented PCA and hierarchical clustering to identify different sub-topics for summary selection</li><li>Generated story with BERT based extractive summarization method which masks out 10% ~ 15% words for perdiction</li></ul>'
 
 - project: MEAN Stack Web Application
   role: Individual Project
   duration: Jan 2020 &mdash; Feb 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Built a social website with functions of creating posts and images with the Tools provided by <b>Angular</b></li><li>Allowed users to edit and delete posts with authorization and authentication, and enabled users to sign up, log in and log out to the website</li><li>Created appropriate endpoints on Backend to communicate with Frontend (<b>Express, Node.js</b>)</li><li>Stored data to reload with <b>MongoDB</b> and deployed the REST API to Amazon Web Services</li></ul>'
+  description: '<ul class="resume-item-list"><li>Built a social website to let user share images and posts with tools provided by <b>Angular</b></li><>Realized functions of uploading, editing, deleting posts and stored data to reload with MongoDB (<b>Express, Node.js</b>)</li><li>Created appropriate endpoints on Backend to communicate with Frontend and deployed to AWS</li></ul>'
