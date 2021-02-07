@@ -7,11 +7,11 @@
 #   # url: "#"
 #   description: '<ul class="resume-item-list"><li>Single-page application with <b>React</b> and <b>Redux</b> by achieving functions of displaying and editing user information and photos.</li><li>Designed one-to-many relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b> </li> <li>Invoked email app and made phone call on user's profile </li><li>Infinite scrolling on user list with React component API</li></ul>'
 
-- project: User Personnel Registry with MERN Stack
-  role: Individual Project
-  duration: July 2020
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information and avatars with edit and create functions <b>(React, Redux, MongoDB, Express)</b></li><li>Designed 1-to-M relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized UI optimization by achieving Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
+# - project: User Personnel Registry with MERN Stack
+#   role: Individual Project
+#   duration: July 2020
+#   # url: "#"
+#   description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information and avatars with edit and create functions <b>(React, Redux, MongoDB, Express)</b></li><li>Designed 1-to-M relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized UI optimization by achieving Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
 
 # - project: Top Trending Twitter Identification
 #   role: Columbia University
