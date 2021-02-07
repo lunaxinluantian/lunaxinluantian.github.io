@@ -5,28 +5,5 @@
   role: Individual Project
   duration:  July 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information and avatars with edit and create functions <b>(React, Redux, MongoDB, Express)</b></li><li>Designed 1-to-M relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized UI optimization by achieving infinite scrolling, invoked email app and made phone call</li></ul>'
+  description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information</li></ul>'
 
-# - project: User Personnel Registry with MERN Stack
-#   role: Individual Project
-#   duration: July 2020
-#   # url: "#"
-#   description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information and avatars with edit and create functions <b>(React, Redux, MongoDB, Express)</b></li><li>Designed 1-to-M relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized UI optimization by achieving Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
-
-# - project: Top Trending Twitter Identification
-#   role: Columbia University
-#   duration: May 2020
-#   # url: "#"
-#   description: '<ul class="resume-item-list"><li>Utilized <b>Apache Spark</b> to analyze streaming data to track real-time trending topics from Twitter API (Python)</li><li>Processed and realized <b>Named Entity Recognition (NER)</b> on obtained tweets with <b>displaCy.js</b></li><li>Set a checkpoint to allow RDD recovery for relatively reliable data persistence to get top 10 hashtag in every 2 seconds</li></ul>'
-
-# - project: Automatic Story Telling on Public Event
-#   role: Columbia University
-#   duration: Jan 2020 &mdash; May 2020
-#   # url: "#"
-#   description: '<ul class="resume-item-list"><li>Extracted key information from 5234 news events on Twitter to generate useful and concise human-write style stories on certain topics (<b>Pyhton</b>)</li><li>Cleaned data by filtering spam and compressed tweets into low dimensional representations to overcome the disadvantage of overwhelming real-time data</li><li>Implemented PCA and hierarchical clustering to identify different sub-topics for summary selection</li><li>Generated story with BERT based extractive summarization method which masks out 10% ~ 15% words for perdiction</li></ul>'
-
-# - project: MEAN Stack Web Application
-#   role: Individual Project
-#   duration: Jan 2020 &mdash; Feb 2020
-#   # url: "#"
-#   description: '<ul class="resume-item-list"><li>Built a social website to let user share images and posts with tools provided by <b>Angular</b></li><>Realized functions of uploading, editing, deleting posts and stored data to reload with MongoDB (<b>Express, Node.js</b>)</li><li>Created appropriate endpoints on Backend to communicate with Frontend and deployed to AWS</li></ul>'
