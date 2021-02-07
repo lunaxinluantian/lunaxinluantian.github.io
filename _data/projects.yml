@@ -1,9 +1,32 @@
 # Projects
 # comment out the urls if you do not wish to display them
 
+# - project: User Personnel Registry with MERN Stack
+#   role: Individual Project
+#   duration:  July 2020
+#   # url: "#"
+#   description: '<ul class="resume-item-list"><li>Single-page application with <b>React</b> and <b>Redux</b> by achieving functions of displaying and editing user information and photos.</li><li>Designed one-to-many relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b> </li> <li>Invoked email app and made phone call on user's profile </li><li>Infinite scrolling on user list with React component API</li></ul>'
+
 - project: User Personnel Registry with MERN Stack
   role: Individual Project
-  duration:  July 2020
+  duration: July 2020
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Designed a single-page application to display user contact information</li></ul>'
+  description: '<ul class="resume-item-list"><li>Single-page application with <b>React</b> and <b>Redux</b> by achieving functions of displaying and editing user information and photos</li><li>Designed one-to-many relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b></li><li>Realized Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
 
+- project: Top Trending Twitter Identification
+  role: Columbia University
+  duration: May 2020
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Utilized <b>Apache Spark</b> to get tweets in JSON format from Twitter API (Python)</li><li>Realized <b>Named Entity Recognition (NER)</b> on tweets with top trending hashtags in <b>displaCy.js</b></li><li>Demonstrated data visualization with Flask framework and updated real-time top 10 hashtags in every two seconds</li></ul>'
+
+- project: Automatic Story Telling on Public Event
+  role: Columbia University
+  duration: Jan 2020 &mdash; May 2020
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Used public raw materials on social media to summarize a concise and informative story under the circumstance of overwhelming data on social media (<b>Pyhton</b>)</li><li>Cleaned data by filtering spam information to obtain useful tweets on certain topics</li><li>Compressed Twitter data into low dimensional representations and classified them into subtopics</li><li>Demonstrated data visualization and formed story using <b>BERT</b> based extractive summarization method(<b>NLP</b>)</li></ul>'
+
+- project: MEAN Stack Web Application
+  role: Individual Project
+  duration: Jan 2020 &mdash; Feb 2020
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Built a social website with functions of creating posts and images with the Tools provided by <b>Angular</b></li><li>Allowed users to edit and delete posts with authorization and authentication, and enabled users to sign up, log in and log out to the website</li><li>Created appropriate endpoints on Backend to communicate with Frontend (<b>Express, Node.js</b>)</li><li>Stored data to reload with <b>MongoDB</b> and deployed the REST API to Amazon Web Services</li></ul>'
