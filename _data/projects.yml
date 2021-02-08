@@ -1,29 +1,26 @@
 # Projects
 # comment out the urls if you do not wish to display them
 
-# - project: User Personnel Registry with MERN Stack
-#   role: Individual Project
-#   duration:  July 2020
-#   # url: "#"
-#   description: '<ul class="resume-item-list"><li>Single-page application with <b>React</b> and <b>Redux</b> by achieving functions of displaying and editing user information and photos.</li><li>Designed one-to-many relationship and implemented CRUD operations with <b>NodeJs</b> and <b>Mongoose</b> </li> <li>Invoked email app and made phone call on user's profile </li><li>Infinite scrolling on user list with React component API</li></ul>'
+- project: Computer System Simulation and Design in C
+  role: Carnegie Mellon University
+  duration: Jan 2019 &mdash; May 2019
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports hit, miss, and evict for data I/O</li><li>Unix Shell: Designed and implemented a Unix shell capable of multiprocessing and background execution</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy which can be used to access real websites</li></ul>'
 
-- project: User Personnel Registry with MERN Stack
+- project: Student Information Management System (OOD)
+  role: Carnegie Mellon University
+  duration: Feb 2019
+  # url: "#"
+  description: '<ul class="resume-item-list"><li>Developed a student directory system in Java which records and operates student information</li><li>Designed and implemented a beautiful graphical user interface (GUI) using Java Swing</li></ul>'
+
+- project: Online Judge System
   role: Individual Project
-  duration: July 2020
+  duration: Dec 2018 &mdash; Jan 2019
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Single-page application with React and Redux by achieving functions of displaying and editing user information and photos</li><li>Designed one-to-many relationship and implemented CRUD operations with NodeJs and Mongoose</li><li>Realized Infinite scrolling, invoked email app and made phone call on responsive user list with Router and React component API</li></ul>'
-- project: Top Trending Twitter Identification
-  role: Columbia University
-  duration: May 2020
+  description: '<ul class="resume-item-list"><li>Implemented a web-based code editor which supports temporary storage of coding (ACE, Redis)</li><li>Designed and developed a single-page web application for coding problems with features such as ending questions, searching questions and typing codes (Angular2, Node.js, MongoDB, Express)</li><li>Refactored and improved system throughput by decoupling services using RESTful API</li></ul>'
+
+- project: Vehicle Detection Based on Single Shot Multi-Box Detector (SSD)
+  role: Rice University
+  duration: Nov 2018 &mdash; Dec 2018
   # url: "#"
-  description: '<ul class="resume-item-list"><li>Utilized Apache Spark to get tweets in JSON format from Twitter API (Python)</li><li>Realized Named Entity Recognition (NER) on tweets with top trending hashtags in displaCy.js</li><li>Demonstrated data visualization with Flask framework and updated real-time top 10 hashtags in every two seconds</li></ul>'
-- project: Automatic Story Telling on Public Event
-  role: Columbia University
-  duration: Jan 2020 &mdash; May 2020
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Used public raw materials on social media to summarize a concise and informative story under the circumstance of overwhelming data on social media (<b>Pyhton</b>)</li><li>Cleaned data by filtering spam information to obtain useful tweets on certain topics</li><li>Compressed Twitter data into low dimensional representations and classified them into subtopics</li><li>Demonstrated data visualization and formed story using BERT based extractive summarization method (NLP)</li></ul>'
-- project: MEAN Stack Web Application
-  role: Individual Project
-  duration: Jan 2020 &mdash; Feb 2020
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Built a social website with functions of creating posts and images with the Tools provided by Angular</li><li>Allowed users to edit and delete posts with authorization and authentication, and enabled users to sign up, log in and log out to the website</li><li>Created appropriate endpoints on Backend to communicate with Frontend (Express, Node.js)</li><li>Stored data to reload with MongoDB and deployed the REST API to Amazon Web Services</li></ul>'
+  description: '<ul class="resume-item-list"><li>Extracted images of seven vehicle classes from VOC 2007 and VOC 2012 dataset</li><li>Utilized VGG as the base Convolutional Neural Network (CNN)</li><li>Implemented the basic function of vehicle detection task using Single Shot Multi-Box Detector in Python</li></ul>'
