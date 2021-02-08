@@ -1,26 +1,6 @@
 # Projects
-# comment out the urls if you do not wish to display them
-
-- project: Computer System Simulation and Design in C
-  role: Carnegie Mellon University
-  duration: Jan 2019 &mdash; May 2019
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Cache Simulator: Simulated a least recently used (LRU) cache which supports hit, miss, and evict for data I/O</li><li>Unix Shell: Designed and implemented a Unix shell capable of multiprocessing and background execution</li><li>Dynamic Memory Allocator: Implemented a general purpose dynamic allocator with segregated free lists, optimal bucket size selection and first-fit search, and greatly improved its throughput and memory utilization</li><li>Http Proxy: Developed a concurrent caching Web Proxy which can be used to access real websites</li></ul>'
-
-- project: Student Information Management System (OOD)
-  role: Carnegie Mellon University
-  duration: Feb 2019
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Developed a student directory system in Java which records and operates student information</li><li>Designed and implemented a beautiful graphical user interface (GUI) using Java Swing</li></ul>'
-
-- project: Online Judge System
-  role: Individual Project
-  duration: Dec 2018 &mdash; Jan 2019
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Implemented a web-based code editor which supports temporary storage of coding (ACE, Redis)</li><li>Designed and developed a single-page web application for coding problems with features such as ending questions, searching questions and typing codes (Angular2, Node.js, MongoDB, Express)</li><li>Refactored and improved system throughput by decoupling services using RESTful API</li></ul>'
-
-- project: Vehicle Detection Based on Single Shot Multi-Box Detector (SSD)
-  role: Rice University
-  duration: Nov 2018 &mdash; Dec 2018
-  # url: "#"
-  description: '<ul class="resume-item-list"><li>Extracted images of seven vehicle classes from VOC 2007 and VOC 2012 dataset</li><li>Utilized VGG as the base Convolutional Neural Network (CNN)</li><li>Implemented the basic function of vehicle detection task using Single Shot Multi-Box Detector in Python</li></ul>'
+- company: Unifi
+  location: West Hollywood, California (remote)
+  position: Web Developer Internship | part-time
+  duration: Oct 2020 &mdash; Dec 2020
+  summary: <ul class="resume-item-list"><li>Designed and built a brand new full-stack web application to display announcements and submit weekly reports for all internal staffs</li><li>Optimized company webpages and helped maintain existing webpages with <b>WordPress</b> plugins</li><li>Utilized React and Django to allow users to do authentication, authorization, assignment submission, etc</li><li>Managed work plan with UI design team on <b>Jira</b> and deployed website to <b>Amazon Web Services(AWS)</></li></ul>

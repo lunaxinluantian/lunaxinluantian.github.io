@@ -131,27 +131,31 @@
       <!-- end Research Experience -->
       {% endif %}
 
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
+      {% if site.resume_section_research_experience %}
+      <!-- begin Research Experience -->
       <section class="content-section">
+
         <header class="section-header">
           <h2>Projects</h2>
         </header>
 
-        {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}
-           <span style="float:right; font-style: italic;">{{ project.duration }}</span>
+        {% for job in site.data.projects %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ projects.company }}
+            <span style="float:right; font-style: italic;">{{ projects.location }}</span>
+          </h3>
+          <h4 class="resume-item-details" itemprop="description">{{ projects.position }}
+            <span style="float:right; font-style: italic;">{{ projects.duration }}</span>
           </h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
-        </div>
+          <p class="resume-item-copy">{{ projects.summary }}</p>
+        </div><!-- end of resume-item -->
         {% endfor %}
+    
 
       </section>
-      <!-- end Projects -->
+      <!-- end Research Experience -->
       {% endif %}
+
       
       {% if site.resume_section_professional_experience %}
       <!-- begin Professional Experience -->
