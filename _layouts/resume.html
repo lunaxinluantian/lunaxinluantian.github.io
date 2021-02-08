@@ -133,25 +133,24 @@
 
 
       {% if site.resume_section_projects %}
-      <!-- begin projects -->
+      <!-- begin Research Experience -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>P</h2>
         </header>
 
-        {% for job in site.data.projects %}
+        {% for job in site.data.research_experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ projects.company }}
-            <span style="float:right; font-style: italic;">{{ projects.location }}</span>
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}
+            <span style="float:right; font-style: italic;">{{ job.location }}</span>
           </h3>
-          <h4 class="resume-item-details" itemprop="description">{{ projects.position }}
-            <span style="float:right; font-style: italic;">{{ projects.duration }}</span>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }}
+            <span style="float:right; font-style: italic;">{{ job.duration }}</span>
           </h4>
-          <p class="resume-item-copy">{{ projects.summary }}</p>
+          <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
-    
 
       </section>
       <!-- end Research Experience -->
